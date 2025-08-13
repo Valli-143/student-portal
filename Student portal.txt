@@ -1,0 +1,17 @@
+Student portal demo
+This is a simple demo of a student portal application.
+
+student information
+Name:[Enter student Name]
+College ID:[Enter college ID]
+course:[Enter course name]
+Fee structure:[Enter fee Details]
+contact:[Enter Email/phone]
+
+Features:
+Student login
+view and update profile
+Enroll in courses
+check Grades
+View fee Details
+See annoucements
